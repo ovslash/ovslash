@@ -1,6 +1,6 @@
 <h2>Bonjour, Je suis développeur web !</h2> 
 
-Je suis à la recherche d'un poste de développeur web.
+Je suis à la recherche d'un premier poste de développeur web.
 
 <h2>Langages et outils</h2> 
 
