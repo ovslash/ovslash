@@ -20,7 +20,7 @@ Lors de la formation Développeur Web d'Openclassrooms:
 
 Réalisation suite à la formation:
 - <a href="https://labuissonnante.org/">La Buissonante</a> : Création d'un site vitrine pour une association (en attente de validation)
-- <a href="#">CV en ligne</a> : Création d'un site qui me présente
+- <a href="https://ovslash.github.io/Site-perso/">CV en ligne</a> : Création d'un site qui me présente
 - <a href="www.apel79.fr">Apel79.fr</a> : Création d'un site internet pour l'Apel départementale des Deux-Sèvres
 <!--
 **ovslash/ovslash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
