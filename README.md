@@ -5,8 +5,8 @@ Je suis à la recherche d'un poste de développeur web.
 <h2>Langages et outils</h2> 
 
 - Frontend: HTML 5 / CSS 3 / Sass / Bootstrap / JavaScript / Vue.js / BootstrapVue
-- Backend: Node.js / Express / MongoDB / MySQL / MySQL Workbench / Sequelize / API REST
-- Outils: Visual studio / Git - GitHub / Gitkraken / Photoshop / Postman
+- Backend: JAVA EE / Srping / Node.js / Express / MongoDB / MySQL / MySQL Workbench / Sequelize / MicrosoftSQL Server / API REST
+- Outils: Eclipse / Jenkins / Visual studio / Git - GitHub / Gitkraken / Photoshop / Postman
 
 <h2>Réalisations</h2> 
 
