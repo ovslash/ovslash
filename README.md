@@ -21,7 +21,7 @@ Réalisations lors de la formation Développeur Web d'Openclassrooms:
 Autres réalisations :
 - <a href="https://labuissonnante.org/">La Buissonante</a> : Création d'un site vitrine pour une association
 - <a href="https://ovslash.github.io/Site-perso/">CV en ligne</a> : Création d'un site qui me présente
-- <a href="www.apel79.fr">Apel79.fr</a> : Création d'un site internet pour l'Apel départementale des Deux-Sèvres
+- <a href="https://www.apel79.fr/">Apel79.fr</a> : Création d'un site internet pour l'Apel départementale des Deux-Sèvres
 - <a href="https://ovslash.github.io/Station_meteo/">Station météo</a> : Création d'une station météo avec données venant d'une API
 
 <!--
